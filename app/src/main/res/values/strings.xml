@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="end_message">Hey guys! It was really fun working with you all! To finish up your Trivia game, use this screen to show the total amount of points the player earned for the game. If you want, you can also add a button that restarts the game if they chose. Have fun!</string>
+</resources>
